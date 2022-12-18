@@ -1,0 +1,24 @@
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+h3 {
+    width:300px;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+}
+
+div {
+    border: 2px solid;
+    position: absolute;
+    top: 35%;
+    transform: translate(0, -50%);
+    padding: 10px;
+  }
